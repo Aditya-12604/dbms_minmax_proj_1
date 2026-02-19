@@ -1,0 +1,10 @@
+@reference "../../index.css";
+
+.prose {
+  font-family: 'Georgia', serif;
+}
+
+.prose p {
+  @apply mb-6 text-lg;
+  line-height: 1.8;
+}
